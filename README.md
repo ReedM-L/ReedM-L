@@ -40,7 +40,6 @@ My experiences so far have led to me developing a strong interest in diving deep
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=GVCMVZXWK7600F1J" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-B22222?&style=for-the-badge&logo=CompTIA&logoColor=white" />
