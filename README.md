@@ -19,15 +19,6 @@ My experiences so far have led to me developing a strong interest in diving deep
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
@@ -37,4 +28,6 @@ My experiences so far have led to me developing a strong interest in diving deep
 </div>
 
 ## Projects
-
+| Project                                       | Date of Completion         |
+|-----------------------------------------------|----------------------------|
+| <a href = "https://github.com/ReedM-L/pcap-c2-analysis">PCAP Analysis of C2 Traffic</a>| 08-13-2025
