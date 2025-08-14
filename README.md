@@ -10,7 +10,7 @@ My experiences so far have led to me developing a strong interest in diving deep
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Packet Analysis         | <a href="https://github.com/ReedM-L/pcap-c2-analysis">PCAP Analysis of C2 Traffic</a>|
 
 ## Tools
 
