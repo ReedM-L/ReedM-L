@@ -30,4 +30,5 @@ My experiences so far have led to me developing a strong interest in diving deep
 ## Projects
 | Project                                       | Date of Completion         |
 |-----------------------------------------------|----------------------------|
+| <a href = "https://github.com/ReedM-L/security-plus-journey">My Security+ Journey</a>| 08-13-2025
 | <a href = "https://github.com/ReedM-L/pcap-c2-analysis">PCAP Analysis of C2 Traffic</a>| 08-13-2025
